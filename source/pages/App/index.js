@@ -18,7 +18,7 @@ export default class App extends Component {
                     fontWeight:      '600',
                     textAlign:       'center',
                 } }>
-                Персональный проект: стартовая точка
+                Start point
             </h1>
         );
     }
