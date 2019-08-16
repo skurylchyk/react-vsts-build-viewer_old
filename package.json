@@ -1,6 +1,6 @@
 {
-    "name": "react-personal-project",
-    "version": "2.4.0",
+    "name": "react-vsts-build-viewer",
+    "version": "0.0.1",
     "author": "",
     "private": true,
     "scripts": {
